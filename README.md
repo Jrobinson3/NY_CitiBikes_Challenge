@@ -27,6 +27,7 @@ By using the data collected, I concluded that many people used bikes to travel t
 When focusing on details like the time, unknown genders tended to utilize the bikes more during weekends. It's apparent that subscribers used the bikes more than non-subscribers.
 Additionally, providing visualization for the Peak Hours in Aug. and Top ending location helps to locate more bikes at the peak hours in August within the preferable location. 
 ![image](https://github.com/Jrobinson3/NY_CitiBikes_Challenge/blob/main/Two%20Additional%20Viz.png)
+
 Embed the Tableau Public link is below:
 [link to story](https://public.tableau.com/app/profile/jeong.robinson/viz/CitiBike_Challenge_16399354514560/Story-NYCitiBikes?publish=yes)
 
