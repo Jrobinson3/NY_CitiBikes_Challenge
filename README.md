@@ -12,7 +12,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
  ![image](https://github.com/Jrobinson3/NY_CitiBikes_Challenge/blob/main/Checkout%20times%20for%20users.png)
 2. Create the Checkout Times by Gender Viz
  This is using the same set of the database, but additionally has genders as one of the factors.  The top users of the bikes are male; compared to the other gender, males tend to utilize longer minutes. 
- ![image](https://github.com/Jrobinson3/NY_CitiBikes_Challenge/blob/main/Checkout%20times%20by%20gender.png)
+ ![this is image](https://github.com/Jrobinson3/NY_CitiBikes_Challenge/blob/main/Checkout%20times%20by%20gender.png)
 3. Create the Trips by Weekday for Each Hour Viz
 This visualization revealed that more people used bikes during rush hours (8 am to 9 am & 5 pm to 7 pm).  However, this was not true during the weekend as more people used bikes during 11 am to 1 pm. 
 ![image](https://github.com/Jrobinson3/NY_CitiBikes_Challenge/blob/main/Trips%20by%20weekday%20per%20hour.png)
